@@ -1,0 +1,1 @@
+# function-as-merge-in-power-enquiry
